@@ -1,6 +1,6 @@
 body {
   font-size: 17;
-  background-color: #90E0EF;
+  background-color: #C2FFF9;
 }
 hr{
   height: 0px;
@@ -9,5 +9,7 @@ hr{
   border-top-style: dotted;
   border-color: grey;
   border-width: 5px;
-
+}
+h1,h3,h2{
+  color:#630606;
 }
